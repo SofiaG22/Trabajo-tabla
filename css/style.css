@@ -1,0 +1,23 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+.Tabla, td, tr, th {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Encabezado, .Pie, .A_y_N{
+    background-color: rgb(179, 76, 179);
+
+}
+
+.a, .b, .c, .d, .e, .Nombre, .Semestre {
+    background-color: rgb(230, 223, 231);
+}
+.d_1, .d_2 {
+    background-color: rgb(179, 76, 179);
+}
